@@ -1,4 +1,4 @@
-FROM nxtlvlsoftware/pmmp-phpstan:master
+FROM paroxity/pmmp-phpstan:master
 
 USER root
 
