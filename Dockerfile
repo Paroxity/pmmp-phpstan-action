@@ -1,4 +1,4 @@
-FROM paroxity/pmmp-phpstan:naster
+FROM paroxity/pmmp-phpstan:master
 
 USER root
 
