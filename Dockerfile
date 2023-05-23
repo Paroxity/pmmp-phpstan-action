@@ -1,4 +1,4 @@
-FROM paroxity/pmmp-phpstan:4.3.4
+FROM paroxity/pmmp-phpstan:4.21.0
 
 USER root
 
